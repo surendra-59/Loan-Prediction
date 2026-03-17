@@ -43,6 +43,6 @@ Loan-Prediction/
 - Gradient Boosting
 
 ## Results
-Our model achieved an accuracy of 85% on the validation set. The Random Forest model performed the best, delivering high precision and recall rates.
+Our model achieved an accuracy of 85% on the validation set. The Cat boost model performed the best, delivering high precision and recall rates. 
 
 ## License
