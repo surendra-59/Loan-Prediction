@@ -46,4 +46,3 @@ Loan-Prediction/
 Our model achieved an accuracy of 85% on the validation set. The Random Forest model performed the best, delivering high precision and recall rates.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
