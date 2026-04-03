@@ -1,4 +1,5 @@
 # Loan Prediction Project
+Currently working on it
 
 ## Overview
 This project aims to develop a predictive model for determining loan eligibility based on various factors such as applicant details, credit history, and demographic information. By analyzing historical loan data, we provide insights and predictions on loan approvals.
